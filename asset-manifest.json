@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BlackjackAndCardCountingWeb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BlackjackAndCardCountingWeb/static/js/main.bb240cce.chunk.js",
+    "main.js.map": "/BlackjackAndCardCountingWeb/static/js/main.bb240cce.chunk.js.map",
+    "runtime-main.js": "/BlackjackAndCardCountingWeb/static/js/runtime-main.b3f05a1b.js",
+    "runtime-main.js.map": "/BlackjackAndCardCountingWeb/static/js/runtime-main.b3f05a1b.js.map",
+    "static/js/2.b9284f4b.chunk.js": "/BlackjackAndCardCountingWeb/static/js/2.b9284f4b.chunk.js",
+    "static/js/2.b9284f4b.chunk.js.map": "/BlackjackAndCardCountingWeb/static/js/2.b9284f4b.chunk.js.map",
+    "index.html": "/BlackjackAndCardCountingWeb/index.html",
+    "precache-manifest.e201a9d76e42535a368422f9df0a75e9.js": "/BlackjackAndCardCountingWeb/precache-manifest.e201a9d76e42535a368422f9df0a75e9.js",
+    "service-worker.js": "/BlackjackAndCardCountingWeb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BlackjackAndCardCountingWeb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b9284f4b.chunk.js.LICENSE.txt": "/BlackjackAndCardCountingWeb/static/js/2.b9284f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f05a1b.js",
+    "static/js/2.b9284f4b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bb240cce.chunk.js"
+  ]
+}
